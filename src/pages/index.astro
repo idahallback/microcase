@@ -67,9 +67,9 @@ const udvalgtenyheder = sorteredenyheder.slice(0, 3);
 								<p class="italic py-2" x-text="dansehold.holdbeskrivelse"></p>	
 							</section>
 							<hr />
-							<section class="">
-								<div class=""><img :src="dansehold.underviserfoto" :alt="dansehold.underviserfotoalt" class=""></div>
-								<div class="">
+							<section class="flex">
+								<div class=""><img :src="dansehold.underviserfoto" :alt="dansehold.underviserfotoalt" class="w-auto"></div>
+								<div class="px-4">
 									<p class="font-bold py-2">Underviser: <span href="#" x-text=""></span></p>
 									<p x-text="dansehold.underviserinfo"></p>
 								</div>
