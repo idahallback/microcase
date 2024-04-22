@@ -6,7 +6,7 @@ const {frontmatter} = Astro.props;
 	<div class="max-w-5xl mx-auto px-4">	
 		<img src={frontmatter.coverimage} alt={frontmatter.coveralt} class="mb-8"/>
 		<section class="prose">
-			<h1>{frontmatter.title}</h1>
+			<h1 class="text-persianmosaic-900 font-prompt">{frontmatter.title}</h1>
 			<slot />
 		</section>
 	</div>

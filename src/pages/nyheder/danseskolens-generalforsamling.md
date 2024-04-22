@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/NyhedsLayout.astro
-title: "Danseskolens generalforsamling 2024"
+title: "Danseskolens Generalforsamling 2024"
 dato: "2024-04-18"
 coverimage: "/generalforsamling.jpg"
 coveralt: "Danseskolens bestyrelse"
