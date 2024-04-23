@@ -4,7 +4,7 @@ title: "Glemmekassen Tømmes: Find Dit Tabte Eje!"
 dato: "2024-04-22"
 coverimage: "/reduce.jpg"
 coveralt: "Danseskolens bestyrelse"
-kortversion: "Den talentfulde og dygtige Lix Hansom fra amerikanske Unidance besøger Danseskolen for at tilbyde inspirerende koreografi og styles til dit næste set."
+kortversion: "Den 15. maj er dagen, hvor Danseskolen vil tømme glemmekassen, og du har en sidste chance for at genforenes med dine tabte ejendele."
 ---
 ## Den 15. maj er dagen, hvor Danseskolen vil tømme glemmekassen, og du har en sidste chance for at genforenes med dine tabte ejendele. 
 

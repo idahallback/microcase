@@ -136,5 +136,27 @@
         "nythold": true,
         "rabat": false,
         "rabatsats": "5%"
+    }, 
+    {
+        "id": 7, 
+        "holdnavn": "Spicy Salsa",
+        "holdbillede": "salsa.webp",
+        "hodlbilledealt": "Salsaaften",
+        "holdbeskrivelse": "Oplev en uovertruffen danserejse i vores eksklusive salsa kursus. Træd ind i en verden af elegance, lidenskab og forførende rytmer, hvor hver bevægelse er en udtryksfuld kunstform!",
+        "holdcatchline": "Velkommen til et univers af sublime bevægelser og uforglemmelige øjeblikke", 
+        "tilmeldingslink": "/salsa",
+        "tidspunkt": "torsdag 20-22",
+        "underviser": "Karna Hage",
+        "underviserfoto": "karnahage.jpg",
+        "underviserfotoalt": "Karna Hage - underviser på ballroom for begyndere", 
+        "underviserurl": "/undervisere/karinahage",
+        "underviserinfo": "Karna er uddannet Ballroom instruktør fra Danse-Staffans skole og har 20 års erfaring som danseinstruktør.",
+        "niveau": "Svær",
+        "alder": "18+",
+        "lokale": "Promenaden",
+        "pladserpaaholdet": 20,
+        "antaldeltagere": 10,
+        "nythold": false,
+        "rabat": false
     }
 ]
